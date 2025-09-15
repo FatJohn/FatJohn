@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm John Shu!
 
-<!--
-**FatJohn/FatJohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Software Developer** | Formal Microsoft MVP
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- **Languages:** C#, C++, JavaScript, TypeScript
+- **Frameworks:** .NET, WPF, UWP, Vue (a little), React (a little), Flutter (beginner)
+- **Other:** Passion for desktop, web, and cross-platform development
+
+---
+
+## 🚀 Featured Project
+
+- [UnicornToolkit](https://github.com/FatJohn/UnicornToolkit)
+
+---
+
+## 🏆 Achievements
+
+- **Formal Microsoft MVP**  
+  Recognized by Microsoft for outstanding contributions to the tech community.
+
+---
+
+## 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/fatjohn/)
+- [Tech Blog](https://dotblogs.com.tw/FatJohn/)
+
+---
+
+![FatJohn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FatJohn&show_icons=true&theme=radical)
