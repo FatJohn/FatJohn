@@ -6,9 +6,8 @@
 
 ## 🛠️ Tech Stack
 
-- **Languages:** C#, C++, JavaScript, TypeScript
-- **Frameworks:** .NET, WPF, UWP, Vue (a little), React (a little), Flutter (beginner)
-- **Other:** Passion for desktop, web, and cross-platform development
+- **Languages:** C#, C++, JavaScript, TypeScript, Dart
+- **Frameworks:** .NET, WPF, UWP, Vue (beginner), React (beginner), Flutter (beginner)
 
 ---
 
